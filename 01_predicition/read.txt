@@ -1,0 +1,7 @@
+https://ivanildo-batista13.medium.com/regress%C3%A3o-linear-m%C3%BAltipla-em-python-eb4b6603a3dsds 
+https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction
+https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo
+
+https://www.kaggle.com/code/aminizahra/linear-regression
+https://www.kaggle.com/code/aminizahra/regularization-ridge-lasso-elasticnet
+https://www.kaggle.com/code/aminizahra/polynomial-regression

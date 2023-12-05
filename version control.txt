@@ -1,0 +1,7 @@
+import sklearn
+
+sklearn .__version__ 
+
+!pip install --upgrade scikit-learn==1.02
+
+!pip install "scikit-learn==0.19.0"
